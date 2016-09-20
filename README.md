@@ -2,7 +2,7 @@ docker-mongodb
 ==============
 
 ```Dockerfile
-FROM       ubuntu:latest
+FROM       enow/main
 MAINTAINER Writtic <writtic@gmail.com>
 
 # Installation:
